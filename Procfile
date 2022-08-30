@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
+worker: node . --db 'Ketik : rm -rf Alphab0t9 && git clone https://github.com/zeeoneofc/Alphab0t9 && cd Alphab0t9 && rm -rf session.json && npm start'
